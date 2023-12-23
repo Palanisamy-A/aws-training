@@ -1,0 +1,32 @@
+admin@DESKTOP-P5TU2C2 MINGW64 ~
+$ pwd
+/c/Users/admin
+
+admin@DESKTOP-P5TU2C2 MINGW64 ~
+$ cd Desktop/
+
+admin@DESKTOP-P5TU2C2 MINGW64 ~/Desktop
+$ mkdir git-project
+
+admin@DESKTOP-P5TU2C2 MINGW64 ~/Desktop
+$ cd git-project/
+
+admin@DESKTOP-P5TU2C2 MINGW64 ~/Desktop/git-project
+$ git clone https://github.com/Palanisamy-A/aws-training.git
+Cloning into 'aws-training'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (6/6), done.
+
+admin@DESKTOP-P5TU2C2 MINGW64 ~/Desktop/git-project
+$ pwd
+/c/Users/admin/Desktop/git-project
+
+admin@DESKTOP-P5TU2C2 MINGW64 ~/Desktop/git-project
+$ ls
+aws-training/
+
+admin@DESKTOP-P5TU2C2 MINGW64 ~/Desktop/git-project
+$
